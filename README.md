@@ -1,6 +1,6 @@
 # Weather CLI 🌦️
 
-Welcome to the **Weather CLI** project! This simple command-line tool fetches and displays the current weather for any city or country you input. It's a great example of how to integrate APIs in Node.js
+hi guys and welcome to my **Weather CLI** project! This simple command-line tool fetches and displays the current weather for any city or country you input. It's a great example of how to integrate APIs in Node.js
 
 ## Features ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
@@ -49,11 +49,7 @@ Description: light rain
 
 ## Configuration ⚙️
 
-- **API Key**: Don't forget to replace `your_api_key` in 
-
-weathercmd.js
-
- with your actual OpenWeatherMap API key.
+- **API Key**: Don't forget to replace `your_api_key` in weathercmd.js with your actual OpenWeatherMap API key.
 
 ## Dependencies 📚
 
@@ -64,13 +60,4 @@ weathercmd.js
 
 This project is licensed under the ISC License.
 
-## Author 👨‍💻
-
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
-
----
-
-Feel free to explore, modify, and enhance this project. Contributions are welcome! If you have any questions or suggestions, please open an issue or submit a pull request.
-
-Happy coding! 🎉
 ```
