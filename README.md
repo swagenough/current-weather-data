@@ -2,7 +2,7 @@
 
 Welcome to the **Weather CLI** project! This simple command-line tool fetches and displays the current weather for any city or country you input. It's a great example of how to integrate APIs in Node.js
 
-## Features ✨
+## Features ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 - **User Greeting**: The app greets you by your name. Pretty cool right
 - **Weather Data**: Fetches real-time weather data for any city or country.
